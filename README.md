@@ -1,7 +1,5 @@
 <div align="center">
-    <img alt="ARELBOT" src ="https://user-images.githubusercontent.com/72728486/102708092-ece61880-42d2-11eb-831b-f3909d67921e.jpg" width="320">
     <h3> HAI ZEFANYA PUA </h3>
-
 # Hai 👋🏻
 
 Daftar tugas / branch
