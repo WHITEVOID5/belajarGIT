@@ -1,5 +1,4 @@
-<div align="center">
-    <h3> HAI ZEFANYA PUA </h3>
+<h3> HAI ZEFANYA PUA </h3>
 # Hai 👋🏻
 
 Daftar tugas / branch
